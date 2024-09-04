@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace NEMURA_01.Models
 {
-    public class Task
+    public class Assignment
     {
         
     }
